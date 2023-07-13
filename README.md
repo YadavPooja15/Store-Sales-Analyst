@@ -1,6 +1,6 @@
 # Store-Sales-Analyst
 Objective-
-Store Want To Create An Annual sales report for 2020. That, store can understand their customers and grow more sales in 2023.
+Store Want To Create An Annual sales report for 2020. So That, store can understand their customers and grow more sales in 2023.
 
 Sample Insides:
 - Women are more likely to buy compared to men
